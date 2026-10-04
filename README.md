@@ -203,7 +203,7 @@ Class induk yang menyimpan data dasar seseorang.
 
 ### 2.7 Class Diagram
 
-![Uploading class-diagram.svg…]()
+[![Class Diagram](class-diagram.svg)](Dokumentasi/class-diagram.svg)
 
 Cara membaca diagram:
 
